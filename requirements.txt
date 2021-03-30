@@ -1,3 +1,5 @@
-PyInstaller
+pyinstaller
 requests
 plyer 
+servicemanager
+pywin32
